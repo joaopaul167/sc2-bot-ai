@@ -1,1 +1,1 @@
-python ./run.py --Realtime --Map "BelShirVestigeLE" --ComputerDifficulty "VeryEasy"
+python ./run.py --Map "BelShirVestigeLE" --ComputerDifficulty "CheatVision"
